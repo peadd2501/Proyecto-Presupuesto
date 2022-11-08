@@ -1,0 +1,5 @@
+commit 97d535aabf2b1d4639e081c8370a3e2347dac1bd
+Author: Pelsar Donis <peadd2501@gmail.com>
+Date:   Mon Nov 7 16:18:20 2022 -0600
+
+    Iniciamos Egresos e Ingresos
